@@ -1,0 +1,36 @@
+.resume-container{
+    padding:30px;
+    margin-left:230px;
+    color:white;
+}
+
+.upload-btn{
+    background:#6d28d9;
+    color:white;
+    border:none;
+    padding:10px 20px;
+    border-radius:8px;
+    cursor:pointer;
+    margin-top:20px;
+}
+
+.upload-btn:hover{
+    background:#4c1d95;
+}
+
+.result-box{
+    margin-top:20px;
+    background:white;
+    color:black;
+    border-radius:12px;
+    padding:20px;
+    max-height:500px;
+    overflow-y:auto;
+    box-shadow:0 8px 20px rgba(0,0,0,0.3);
+}
+
+.result-box pre{
+    white-space:pre-wrap;
+    font-size:16px;
+    font-family:Arial, sans-serif;
+}

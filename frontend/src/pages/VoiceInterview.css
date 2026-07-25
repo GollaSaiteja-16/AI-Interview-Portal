@@ -1,0 +1,43 @@
+.voice-container{
+    margin-left:230px;
+    padding:40px;
+    color:white;
+}
+
+.subtitle{
+    color:#cbd5e1;
+    font-size:18px;
+    margin-bottom:30px;
+}
+
+.voice-card{
+    background:white;
+    color:black;
+    width:600px;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 8px 20px rgba(0,0,0,.3);
+}
+
+.voice-card h3{
+    margin-bottom:15px;
+}
+
+.voice-card p{
+    font-size:18px;
+    margin-bottom:25px;
+}
+
+.voice-btn{
+    background:#6d28d9;
+    color:white;
+    border:none;
+    padding:12px 24px;
+    border-radius:8px;
+    cursor:pointer;
+    font-size:16px;
+}
+
+.voice-btn:hover{
+    background:#4c1d95;
+}
